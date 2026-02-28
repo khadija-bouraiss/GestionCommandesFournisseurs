@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/GestionCommandesFournisseurs/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/GestionCommandesFournisseurs/src/gestion/dao/CommandeAchatDAOImpl.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/GestionCommandesFournisseurs/src/gestion/forms/Main.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/GestionCommandesFournisseurs/src/gestion/forms/ProduitFrame.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/GestionCommandesFournisseurs/src/gestion/forms/StatistiqueFrame.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/GestionCommandesFournisseurs/src/gestion/forms/LoginFrame.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/GestionCommandesFournisseurs/src/gestion/forms/MainFrame.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/GestionCommandesFournisseurs/src/gestion/dao/FournisseurDAOImpl.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/GestionCommandesFournisseurs/src/gestion/forms/FournisseurFrame.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/GestionCommandesFournisseurs/src/gestion/forms/FiltreFournisseurFrame.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/GestionCommandesFournisseurs/src/gestion/forms/imagebackground.jpg</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/GestionCommandesFournisseurs/src/gestion/forms/FiltrePeriodeFrame.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/GestionCommandesFournisseurs/src/gestion/dao/ProduitDAOImpl.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/GestionCommandesFournisseurs/src/gestion/forms/FiltreStatutFrame.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/GestionCommandesFournisseurs/src/gestion/forms/CommandeFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
