@@ -155,6 +155,12 @@ Permet de filtrer les commandes selon trois critères :
 
 https://github.com/user-attachments/assets/e8e5bd84-75e7-4090-994c-ee6e968cd0f1
 
+## 📊 Statistiques & Graphiques
+Visualisation des données via deux types de graphiques JFreeChart :
+- Graphique camembert : quantités achetées par catégorie
+- Graphique en barres : dépenses par mois
+
+https://github.com/user-attachments/assets/6fc27773-3aa4-483d-80d0-e4be5da1fe1b
 
 
 
