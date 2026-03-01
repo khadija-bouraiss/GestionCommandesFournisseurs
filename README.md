@@ -127,13 +127,11 @@ https://github.com/user-attachments/assets/71518d89-1896-4c8e-bee1-8844dc86b586
 
 ## 💿 Installation de l'application
 
-
-
-
-
 https://github.com/user-attachments/assets/4e47297f-d705-4977-864d-4363a308402d
 
+## 🔑 Authentification & Sécurité
 
+https://github.com/user-attachments/assets/dcc72b80-57d6-4fa1-b1df-01b510329247
 
 
 
