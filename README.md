@@ -133,7 +133,9 @@ https://github.com/user-attachments/assets/4e47297f-d705-4977-864d-4363a308402d
 
 https://github.com/user-attachments/assets/dcc72b80-57d6-4fa1-b1df-01b510329247
 
+## 🏭 Gestion des Fournisseurs
 
+https://github.com/user-attachments/assets/864d8dc1-8dda-4092-acfb-c706abaa182f
 
 
 
