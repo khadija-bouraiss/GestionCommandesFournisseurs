@@ -131,7 +131,9 @@ https://github.com/user-attachments/assets/4e47297f-d705-4977-864d-4363a308402d
 
 ## 🔑 Authentification & Sécurité
 
-https://github.com/user-attachments/assets/dcc72b80-57d6-4fa1-b1df-01b510329247
+
+https://github.com/user-attachments/assets/d9bf20ed-e6dd-4043-84cf-67e4d34ad651
+
 
 ## 🏭 Gestion des Fournisseurs
 
