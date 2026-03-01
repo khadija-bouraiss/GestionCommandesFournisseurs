@@ -137,6 +137,25 @@ https://github.com/user-attachments/assets/dcc72b80-57d6-4fa1-b1df-01b510329247
 
 https://github.com/user-attachments/assets/864d8dc1-8dda-4092-acfb-c706abaa182f
 
+## 📦 Gestion des Produits
+
+https://github.com/user-attachments/assets/ef373eab-1e63-41d5-8da6-bc8606f591d7
+
+
+## 📋 Gestion des Commandes
+
+https://github.com/user-attachments/assets/fcb46887-fde5-4eb1-b651-7b96d1ded536
+
+
+## 🔍 Filtrage des Commandes
+Permet de filtrer les commandes selon trois critères :
+- Par fournisseur
+- Par statut (En cours / Livrée)
+- Par période (date début et date fin)
+
+https://github.com/user-attachments/assets/e8e5bd84-75e7-4090-994c-ee6e968cd0f1
+
+
 
 
 
