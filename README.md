@@ -128,6 +128,17 @@ https://github.com/user-attachments/assets/71518d89-1896-4c8e-bee1-8844dc86b586
 ## 💿 Installation de l'application
 
 
+https://github.com/user-attachments/assets/ffcf0141-7008-44e1-a514-25c3fcc8abd0
+
+
+
+
+
+
+
+
+
+
 
 
 
